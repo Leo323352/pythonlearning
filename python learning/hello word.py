@@ -1,0 +1,5 @@
+﻿print('hello word')
+print('1 + 1 = ', 1+1)
+print('your name is')
+print('dfdsfs\nfdsfdsf\nfd')
+print('我是汉字')
